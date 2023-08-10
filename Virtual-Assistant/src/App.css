@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  background-color:rgba(76, 145, 66, 0.928);;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.App-header {
+  background-color: rgba(76, 145, 66, 0.928);
+  min-height: 100vh;
+  display: grid;
+  grid-template-rows: auto 1fr;
+  grid-template-columns: 35% 75%;
+  align-items: auto;
+  justify-content: auto;
+  font-size: calc(10px + 2vmin);
+  color: rgb(20, 19, 19);
+}
+
+.App-link {
+  color: #61dafb;
+}
+
